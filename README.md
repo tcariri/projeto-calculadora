@@ -6,11 +6,14 @@ Para executar o arquivo sh no seu computador
   use o comando git clone https://github.com/tcariri/projeto-calculadora.git
   
 * entre no diretorio do projeto
+  
   use o cd projeto-calculadora
 * de permissão de execução para o arquivo
+  
   use o comando chmod +x calculadora_ebac.sh
   
 * por ultimo use o comando ./ antes do arquivo
+  
   ./calculadora_ebac.sh
 
 2)Coloque na documentação a explicação do seu código em python.
